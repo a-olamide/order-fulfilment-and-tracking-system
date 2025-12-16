@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Projects\\OrderFulfilmentSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A76EB51-9326-45F6-AC4B-6AA325A72866}|src\\FulfillmentWorker\\FulfillmentWorker.csproj|c:\\projects\\orderfulfilmentsystem\\src\\fulfillmentworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A76EB51-9326-45F6-AC4B-6AA325A72866}|src\\FulfillmentWorker\\FulfillmentWorker.csproj|solutionrelative:src\\fulfillmentworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\events\\fulfillmentscheduledv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\events\\fulfillmentscheduledv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A76EB51-9326-45F6-AC4B-6AA325A72866}|src\\FulfillmentWorker\\FulfillmentWorker.csproj|c:\\projects\\orderfulfilmentsystem\\src\\fulfillmentworker\\fulfillmentworker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A76EB51-9326-45F6-AC4B-6AA325A72866}|src\\FulfillmentWorker\\FulfillmentWorker.csproj|solutionrelative:src\\fulfillmentworker\\fulfillmentworker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\events\\paymentauthorizedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\events\\paymentauthorizedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A76EB51-9326-45F6-AC4B-6AA325A72866}|src\\FulfillmentWorker\\FulfillmentWorker.csproj|c:\\projects\\orderfulfilmentsystem\\src\\fulfillmentworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A76EB51-9326-45F6-AC4B-6AA325A72866}|src\\FulfillmentWorker\\FulfillmentWorker.csproj|solutionrelative:src\\fulfillmentworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE146BDD-AA82-4EC5-B2B7-76899736312C}|src\\PaymentWorker\\PaymentWorker.csproj|c:\\projects\\orderfulfilmentsystem\\src\\paymentworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE146BDD-AA82-4EC5-B2B7-76899736312C}|src\\PaymentWorker\\PaymentWorker.csproj|solutionrelative:src\\paymentworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\events\\paymentfailedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\events\\paymentfailedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\events\\paymentauthorizedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\events\\paymentauthorizedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE146BDD-AA82-4EC5-B2B7-76899736312C}|src\\PaymentWorker\\PaymentWorker.csproj|c:\\projects\\orderfulfilmentsystem\\src\\paymentworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,11 +110,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\FulfillmentWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "src\\FulfillmentWorker\\Worker.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\FulfillmentWorker\\Worker.cs",
+              "RelativeToolTip": "src\\FulfillmentWorker\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:55:23.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\FulfillmentWorker\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\FulfillmentWorker\\appsettings.json",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\FulfillmentWorker\\appsettings.json",
+              "RelativeToolTip": "src\\FulfillmentWorker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T05:54:31.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FulfillmentWorker",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\FulfillmentWorker\\FulfillmentWorker.csproj",
+              "RelativeDocumentMoniker": "src\\FulfillmentWorker\\FulfillmentWorker.csproj",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\FulfillmentWorker\\FulfillmentWorker.csproj*",
+              "RelativeToolTip": "src\\FulfillmentWorker\\FulfillmentWorker.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T05:52:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FulfillmentScheduledV1.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Events\\FulfillmentScheduledV1.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Events\\FulfillmentScheduledV1.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Events\\FulfillmentScheduledV1.cs",
+              "RelativeToolTip": "src\\Shared\\Events\\FulfillmentScheduledV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:48:59.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\SearchIndexerWorker\\Worker.cs",
               "RelativeDocumentMoniker": "src\\SearchIndexerWorker\\Worker.cs",
@@ -111,33 +179,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PaymentAuthorizedV1.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Events\\PaymentAuthorizedV1.cs",
               "RelativeDocumentMoniker": "src\\Shared\\Events\\PaymentAuthorizedV1.cs",
               "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Events\\PaymentAuthorizedV1.cs",
               "RelativeToolTip": "src\\Shared\\Events\\PaymentAuthorizedV1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T05:04:13.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\Worker.cs",
               "RelativeDocumentMoniker": "src\\PaymentWorker\\Worker.cs",
               "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\Worker.cs",
               "RelativeToolTip": "src\\PaymentWorker\\Worker.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAIBJwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T05:02:34.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\Program.cs",
               "RelativeDocumentMoniker": "src\\PaymentWorker\\Program.cs",
@@ -150,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\appsettings.json",
               "RelativeDocumentMoniker": "src\\PaymentWorker\\appsettings.json",
@@ -163,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "OrderService.csproj",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\OrderService.csproj",
               "RelativeDocumentMoniker": "src\\OrderService\\OrderService.csproj",
@@ -176,20 +244,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "src\\OrderService\\Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "src\\OrderService\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAADEAAACBAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAIBJwDEAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T03:01:42.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "OrderCreatedV1.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Messaging\\OrderCreatedV1.cs",
               "RelativeDocumentMoniker": "src\\Shared\\Messaging\\OrderCreatedV1.cs",
@@ -202,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "PaymentFailedV1.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Events\\PaymentFailedV1.cs",
               "RelativeDocumentMoniker": "src\\Shared\\Events\\PaymentFailedV1.cs",
@@ -215,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Program.cs",
               "RelativeDocumentMoniker": "src\\OrderService\\Program.cs",
@@ -228,20 +296,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "KafkaEventProducer.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\Messaging\\KafkaEventProducer.cs",
               "RelativeDocumentMoniker": "src\\OrderService\\Infrastructure\\Messaging\\KafkaEventProducer.cs",
               "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\Messaging\\KafkaEventProducer.cs",
               "RelativeToolTip": "src\\OrderService\\Infrastructure\\Messaging\\KafkaEventProducer.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwBMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T02:56:30.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "IEventProducer.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\Messaging\\IEventProducer.cs",
               "RelativeDocumentMoniker": "src\\OrderService\\Infrastructure\\Messaging\\IEventProducer.cs",
@@ -254,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\OrderService\\Infrastructure\\AppDbContext.cs",
@@ -267,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Domain\\Order.cs",
               "RelativeDocumentMoniker": "src\\OrderService\\Domain\\Order.cs",
@@ -280,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Domain\\OrderStatus.cs",
               "RelativeDocumentMoniker": "src\\OrderService\\Domain\\OrderStatus.cs",
@@ -293,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -306,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\appsettings.json",
               "RelativeDocumentMoniker": "src\\OrderService\\appsettings.json",
@@ -319,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "EventEnvelope.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Messaging\\EventEnvelope.cs",
               "RelativeDocumentMoniker": "src\\Shared\\Messaging\\EventEnvelope.cs",
@@ -332,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Topics.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Messaging\\Topics.cs",
               "RelativeDocumentMoniker": "src\\Shared\\Messaging\\Topics.cs",
@@ -345,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Class1.cs",
               "RelativeDocumentMoniker": "src\\Shared\\Class1.cs",
@@ -358,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "init-es.json",
               "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\init-es.json",
               "RelativeDocumentMoniker": "init-es.json",
