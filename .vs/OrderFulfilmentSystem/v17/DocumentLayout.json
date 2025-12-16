@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\OrderFulfilmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|NewFolder1{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|C:\\Projects\\OrderFulfilmentSystem\\init-es.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|NewFolder1{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|solutionrelative:init-es.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|NewFolder1{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|C:\\Projects\\OrderFulfilmentSystem\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|NewFolder1{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "init-es.json",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\init-es.json",
+              "RelativeDocumentMoniker": "init-es.json",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\init-es.json",
+              "RelativeToolTip": "init-es.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T00:49:07.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-16T00:48:46.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
