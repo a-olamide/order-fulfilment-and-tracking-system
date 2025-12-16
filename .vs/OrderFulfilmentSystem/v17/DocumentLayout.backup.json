@@ -1,12 +1,375 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\OrderFulfilmentSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE146BDD-AA82-4EC5-B2B7-76899736312C}|src\\PaymentWorker\\PaymentWorker.csproj|c:\\projects\\orderfulfilmentsystem\\src\\paymentworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE146BDD-AA82-4EC5-B2B7-76899736312C}|src\\PaymentWorker\\PaymentWorker.csproj|solutionrelative:src\\paymentworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523FB5F-CCDC-443B-AFE3-61C943ED7026}|src\\SearchIndexerWorker\\SearchIndexerWorker.csproj|c:\\projects\\orderfulfilmentsystem\\src\\searchindexerworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5523FB5F-CCDC-443B-AFE3-61C943ED7026}|src\\SearchIndexerWorker\\SearchIndexerWorker.csproj|solutionrelative:src\\searchindexerworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|c:\\projects\\orderfulfilmentsystem\\src\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|solutionrelative:src\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\messaging\\ordercreatedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\messaging\\ordercreatedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\events\\paymentfailedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\events\\paymentfailedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\events\\paymentauthorizedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\events\\paymentauthorizedv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE146BDD-AA82-4EC5-B2B7-76899736312C}|src\\PaymentWorker\\PaymentWorker.csproj|c:\\projects\\orderfulfilmentsystem\\src\\paymentworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE146BDD-AA82-4EC5-B2B7-76899736312C}|src\\PaymentWorker\\PaymentWorker.csproj|solutionrelative:src\\paymentworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE146BDD-AA82-4EC5-B2B7-76899736312C}|src\\PaymentWorker\\PaymentWorker.csproj|c:\\projects\\orderfulfilmentsystem\\src\\paymentworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE146BDD-AA82-4EC5-B2B7-76899736312C}|src\\PaymentWorker\\PaymentWorker.csproj|solutionrelative:src\\paymentworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|c:\\projects\\orderfulfilmentsystem\\src\\orderservice\\infrastructure\\messaging\\kafkaeventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|solutionrelative:src\\orderservice\\infrastructure\\messaging\\kafkaeventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|c:\\projects\\orderfulfilmentsystem\\src\\orderservice\\infrastructure\\messaging\\ieventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|solutionrelative:src\\orderservice\\infrastructure\\messaging\\ieventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|deploy{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|C:\\Projects\\OrderFulfilmentSystem\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|deploy{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|c:\\projects\\orderfulfilmentsystem\\src\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|solutionrelative:src\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|c:\\projects\\orderfulfilmentsystem\\src\\orderservice\\domain\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|solutionrelative:src\\orderservice\\domain\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|c:\\projects\\orderfulfilmentsystem\\src\\orderservice\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|solutionrelative:src\\orderservice\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|c:\\projects\\orderfulfilmentsystem\\src\\orderservice\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|solutionrelative:src\\orderservice\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|c:\\projects\\orderfulfilmentsystem\\src\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|solutionrelative:src\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|c:\\projects\\orderfulfilmentsystem\\src\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501E5478-34C8-4CC8-8C97-66478E8021BA}|src\\OrderService\\OrderService.csproj|solutionrelative:src\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\messaging\\eventenvelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\messaging\\eventenvelope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\messaging\\topics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\messaging\\topics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|c:\\projects\\orderfulfilmentsystem\\src\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1E44D8-F0FD-4B46-8597-B6DE0DC25055}|src\\Shared\\Shared.csproj|solutionrelative:src\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|deploy{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|C:\\Projects\\OrderFulfilmentSystem\\init-es.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|deploy{A4EEC173-DA6E-42F4-8F8F-09E0E6218399}|solutionrelative:init-es.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\SearchIndexerWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "src\\SearchIndexerWorker\\Worker.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\SearchIndexerWorker\\Worker.cs",
+              "RelativeToolTip": "src\\SearchIndexerWorker\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:21:17.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentAuthorizedV1.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Events\\PaymentAuthorizedV1.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Events\\PaymentAuthorizedV1.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Events\\PaymentAuthorizedV1.cs",
+              "RelativeToolTip": "src\\Shared\\Events\\PaymentAuthorizedV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:04:13.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "src\\PaymentWorker\\Worker.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\Worker.cs",
+              "RelativeToolTip": "src\\PaymentWorker\\Worker.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:02:34.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PaymentWorker\\Program.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\Program.cs",
+              "RelativeToolTip": "src\\PaymentWorker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:02:25.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\PaymentWorker\\appsettings.json",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\PaymentWorker\\appsettings.json",
+              "RelativeToolTip": "src\\PaymentWorker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T04:59:57.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "src\\OrderService\\OrderService.csproj",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "src\\OrderService\\OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T03:17:25.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAADEAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:01:42.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderCreatedV1.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Messaging\\OrderCreatedV1.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Messaging\\OrderCreatedV1.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Messaging\\OrderCreatedV1.cs",
+              "RelativeToolTip": "src\\Shared\\Messaging\\OrderCreatedV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:52:47.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentFailedV1.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Events\\PaymentFailedV1.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Events\\PaymentFailedV1.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Events\\PaymentFailedV1.cs",
+              "RelativeToolTip": "src\\Shared\\Events\\PaymentFailedV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T05:04:23.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\OrderService\\Program.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Program.cs",
+              "RelativeToolTip": "src\\OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:00:23.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KafkaEventProducer.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\Messaging\\KafkaEventProducer.cs",
+              "RelativeDocumentMoniker": "src\\OrderService\\Infrastructure\\Messaging\\KafkaEventProducer.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\Messaging\\KafkaEventProducer.cs",
+              "RelativeToolTip": "src\\OrderService\\Infrastructure\\Messaging\\KafkaEventProducer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:56:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEventProducer.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\Messaging\\IEventProducer.cs",
+              "RelativeDocumentMoniker": "src\\OrderService\\Infrastructure\\Messaging\\IEventProducer.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\Messaging\\IEventProducer.cs",
+              "RelativeToolTip": "src\\OrderService\\Infrastructure\\Messaging\\IEventProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:56:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\OrderService\\Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "src\\OrderService\\Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:55:39.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "src\\OrderService\\Domain\\Order.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Domain\\Order.cs",
+              "RelativeToolTip": "src\\OrderService\\Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:54:49.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Domain\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "src\\OrderService\\Domain\\OrderStatus.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\Domain\\OrderStatus.cs",
+              "RelativeToolTip": "src\\OrderService\\Domain\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:54:29.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-16T01:41:20.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\OrderService\\appsettings.json",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\OrderService\\appsettings.json",
+              "RelativeToolTip": "src\\OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T02:57:36.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventEnvelope.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Messaging\\EventEnvelope.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Messaging\\EventEnvelope.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Messaging\\EventEnvelope.cs",
+              "RelativeToolTip": "src\\Shared\\Messaging\\EventEnvelope.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:52:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Topics.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Messaging\\Topics.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Messaging\\Topics.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Messaging\\Topics.cs",
+              "RelativeToolTip": "src\\Shared\\Messaging\\Topics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:50:02.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Class1.cs",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\src\\Shared\\Class1.cs",
+              "RelativeToolTip": "src\\Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:44:23.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "init-es.json",
+              "DocumentMoniker": "C:\\Projects\\OrderFulfilmentSystem\\init-es.json",
+              "RelativeDocumentMoniker": "init-es.json",
+              "ToolTip": "C:\\Projects\\OrderFulfilmentSystem\\init-es.json",
+              "RelativeToolTip": "init-es.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T00:49:07.863Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
