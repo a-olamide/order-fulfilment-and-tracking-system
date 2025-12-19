@@ -7,11 +7,7 @@ The system is intentionally designed to reflect **real-world backend engineering
 ---
 
 ## 🧱 Architecture Overview
-
-```
-<img width="1224" height="640" alt="image" src="https://github.com/user-attachments/assets/085ea844-e181-4aff-b789-643803887f76" />
-
-```
+<img width="1224" height="640" alt="image" src="https://github.com/user-attachments/assets/58a3bb2f-b8ef-4ea7-bff9-39914fa82ae6" />
 
 Each service is independently deployable and communicates **only via events**, enabling horizontal scalability and fault isolation.
 
